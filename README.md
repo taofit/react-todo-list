@@ -1,4 +1,4 @@
-## it is a simple react project, but it demonstrate the use of hook to generate a todo list with complete, remove list item functionalities.
+## It is a simple react project, but it demonstrate the use of hook to generate a todo list with complete, remove list item functionalities.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
